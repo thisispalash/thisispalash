@@ -1,4 +1,4 @@
-### hunlo. 👋
+### 👋 hunlo.
 
 This is Palash['s github]. Presently, I am studying Computer Science at Cornell University and am set to graduate in December 2021. Hence, I am looking for full time positions starting in 2022.
 
