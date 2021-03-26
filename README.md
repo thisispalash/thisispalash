@@ -2,9 +2,9 @@
 
 This is Palash['s github]. Presently, I am studying Computer Science at Cornell University and am set to graduate in December 2021. Hence, I am looking for full time positions starting in 2022.
 
-- 🔭 I'm currently working on blockchain bounties and personal projects
-- 🌱 I’m currently learning machine-learning, web3.0, and cognitive science
-- 🤔 I'm currently looking for a summer internship (2021) and a full time position (2022)
+- 🔭 I'm presently working on blockchain bounties and personal projects
+- 🌱 I’m presently learning machine-learning, web3.0, and cognitive science
+- 🤔 I'm presently looking for a summer internship (2021) and a full time position (2022)
 - 💬 Ask me about world changing ideas like blockchain and meditation
 <!-- add contact info (website) ASAP, ie, max June 2021 -->
 - 💲 Help me in my journey?
