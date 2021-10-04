@@ -17,6 +17,7 @@ Ultra Future Projects, that I am exploring -
 All in all the projects follow the common theme of radical self suffiency to enable true, free, accessible actualisation. The first step, imo, is to decentralise the world, one bit at a time - Radical Democracy! And now we actually can !!
 
 Fun Side Projects -
-- tampopo [dot] eth - A storytelling platform rewarding you for enrapturing your audience
+- [tampopo [dot] eth](https://showcase.ethglobal.com/ethonline2021/tampopo-dot-eth) - A storytelling platform rewarding you for enrapturing your audience
 - eKYC - can biometric information be the seeds to private keys, thereby removing the need to remember strings of characters?
 - /infty - choose your axes for the day so you may be cubed and chase *fun*!
+- personas - a social media manager with chatbots for 24x7 connectivity but with sanity
