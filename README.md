@@ -21,3 +21,4 @@ Fun Side Projects -
 - eKYC - can biometric information be the seeds to private keys, thereby removing the need to remember strings of characters?
 - /infty - choose your axes for the day so you may be cubed and chase *fun*!
 - personas - a social media manager with chatbots for 24x7 connectivity but with sanity
+- jaquis - Just Another QUite Interesting System
