@@ -22,4 +22,4 @@ Fun Side Projects -
 - /infty - choose your axes for the day so you may be cubed and chase *fun*!
 - personas - a social media manager with chatbots for 24x7 connectivity but with sanity
 - jaquis - Just Another QUite Interesting System
-- remixR - cut and stitch videos for compelling custom narratives
+- memerPRO - cut and stitch videos for compelling custom narratives
