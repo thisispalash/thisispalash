@@ -8,15 +8,14 @@ Current Projects, I am working on -
 - 👻  [`AASI -- SASS`](https://web3guru.art/) - Artificially Assisted Symbiotic Intelligence -- See A Shrink? Sure.
 
 Fun Side Projects -
-- [tampopo [dot] eth](https://thisispalash.com/tampopo/) - A storytelling platform rewarding you for enrapturing your audience
-- eKYC - can biometric information be the seeds to private keys, thereby removing the need to remember strings of characters?
-- /infty - choose your axes for the day so you may be cubed and chase *fun*!
-- personas - a social media manager with chatbots for 24x7 connectivity but with sanity
-- jaquis - Just Another QUite Interesting System
+- [`tampopo [dot] eth`](https://thisispalash.com/tampopo/) - A storytelling platform rewarding you for enrapturing your audience
+- personas - a social media manager with chatbots for 24x7 connectivity, but with sanity
 - memerPRO - cut and stitch videos for compelling custom narratives
+- ethBier - a global connoisseur community, spirits and soul !
+- jaquis - Just Another QUite Interesting System
 
 Ultra Future Projects, that I am exploring -
-- 🤔 [The World iF](https://web3world.art/) - web3 existed from the get go; ie, the world if we all lived in a globally connected, actualised society, and played positive sum games
-- 🍁 [Gateway](https://web3gateway.art/) - is decentralsed, modular hemp production the key to space travel?
+- 🤔 [`The World iF`](https://web3world.art/) - web3 existed from the get go; ie, the world if we all lived in a globally connected, actualised society, and played positive sum games
+- 🍁 [`Gateway`](https://web3gateway.art/) - is decentralsed, modular hemp production the key to space travel?
 
 All in all the projects follow the common theme of radical self suffiency to enable true, free, accessible actualisation. The first step, imo, is to decentralise the world, one bit at a time - Radical Democracy! And now we actually can !!
