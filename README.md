@@ -9,6 +9,7 @@ Current Projects, I am working on -
 
 Fun Side Projects -
 - [`tampopo [dot] eth`](https://thisispalash.com/tampopo/) - A storytelling platform rewarding you for enrapturing your audience
+- [`e-kyc`](https://thisispalash.com/e-kyc/) - Say goodbye to keys by using _biometrics_ as _unique_ and _private_ seeds
 - personas - a social media manager with chatbots for 24x7 connectivity, but with sanity
 - memerPRO - cut and stitch videos for compelling custom narratives
 - ethBier - a global connoisseur community, spirits and soul !
