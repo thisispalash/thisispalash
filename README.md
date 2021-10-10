@@ -57,7 +57,7 @@ These are repositories sparked from random [read; childhood] inspirations, like 
 
 - [ ] [riddle's diary](https://thisispalash.com/diary/) : 
   [`src`](https://github.com/thisispalash/diary) :: 
-  Tom Riddle's Diary from Harry Potter and Sorcerer's Stone, backed by [jaquip](https://github.com/web3jaquip)
+  Tom Riddle's Diary from Harry Potter and the Chamber of Secrets, backed by [jaquip](https://github.com/web3jaquip)
 - [ ] [babel [dot] eth](https://thisispalash.com/libbabel/) : 
   [`src`](https://github.com/thisispalash/libbabel) :: 
   A [library of babel](https://libraryofbabel.info) implementation for [tampopo[dot]eth](https://tampopo.xyz)
