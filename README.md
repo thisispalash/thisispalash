@@ -1,12 +1,27 @@
 ### ![](https://visitor-badge.glitch.me/badge?page_id=thisispalash.thisispalash) 👋 hello !!
 
-Welcome to my github! Here, you may find all code that enables my life. Larger projects are made into organisations (especially DAO material), but most personal code and code yet to be decentralised can be found under my repositories. As of now, I am applying for grants in the web3 space for some of my projects, and also competing in the amazing hackathons happening globally! If you'd like a more user friendly version of my life, you can head on over to [my site](https://thisispalash.com/) (may be incomplete) or [the github index](https://github.com/thisispalash/lists) (may also be incomplete).
+Welcome to my github ! I will keep updating the two to three current repositories that I am working on (and perhaps recently released projects) in this file. Other than that, most of my time is likely spent in working on the web3 networks listed below. You can contact me using my [website](https://thisispalash.com/) or on [twitter](https://twitter.com/isthispalash). I also try to maintain a comprehensive list of project activity on github, which you can find [here](https://github.com/thisispalash/index). Feel free to browse around, and do let me know if some project helped you out!
 
+## work in progress
 
-## web3 Convenience
-> full fledged DAOs with long*ish* term involvement
+- [ ] [web3kyc](https://thisispalash.com/web3kyc/) : 
+  [`src`](https://github.com/thisispalash/web3kyc) :: 
+  let others pick up the burden of transmitting kyc-data
+- [ ] [tampopo [dot] eth](https://thisispalash.com/tampopo/) : 
+  [`src`](https://github.com/thisispalash/tampopo) :: 
+  a storytelling platform rewarding you for enrapturing your audience
+  
+> browse through my [website](https://thisispalash.com/) or the github [`index`](https://github.com/thisispalash/index) instead
 
-These projects are effectively [solo] organisations, aimed at creating _extremely_ helpful networks. They were all typically born out of personal necessity, and are made open (and scalable) in the hopes of others having similar necessities. The goal of these _projects_ is also to enable a truly actualised society, because if not in the 21st century, then when?
+## recent releases
+
+- 
+
+***
+
+## longterm web3 protocols
+
+These projects are effectively solo*ish* organisations, aimed at creating extremely _helpful_ networks. They were all typically born out of personal necessity, and are made open (and scalable) in case of others having similar necessities. The goal of these _networks_ is ultimately to enable a truly actualised society, because if not in the 21st century, then when?
 
 - [🐒](https://dashmonkey.art/ "website") 
   [`web3tamagotchi`](https://github.com/web3tamagotchi "github") :
@@ -27,49 +42,3 @@ These projects are effectively [solo] organisations, aimed at creating _extremel
   [`web3gg`](https://github.com/web3gg "github") :
   > `gateway getaway,` _is decentralised, feasible, modular hemp production the key to space travel?_
 
-
-## Fun Side Projects
-> Built over a hackathon, or a weekend, or just for fun
-
-These projects are smaller term projects, typically worked on for less than three months. Sometimes I would go back to a project, in case of a _fun_ update, but generally, _out of mind, out of sight_. Moreover, most of these project do not have scope for active development post the few weeks or months as these are typically small games, simple protocols, or copypasta (of the idea more than code, but also code). Many of the projects are also simplay backlogged projects that I was unwilling to let go. Having said that, the projects are archived [read: abandoned] after a working release is pushed, (with docs, for my future sanity more than yours).
-
-### web3 protocols
-
-The blockchain bug has bitten me, and why wouldn't it? it gives the internet an economy! Oh the possibilities ..
-
-- [ ] [ethßier](https://thisispalash.com/ethbier/) : 
-  [`src`](https://github.com/thisispalash/ethbier) :: 
-  a global community of connoisseurs, spirits and soul !
-- [ ] [web3kyc](https://thisispalash.com/web3kyc/) : 
-  [`src`](https://github.com/thisispalash/web3kyc) :: 
-  let others pick up the burden of transmitting kyc-data
-- [ ] [memerPRO](https://thisispalash.com/remixr/) : 
-  [`src`](https://github.com/thisispalash/remixr) :: 
-  cut and stitch videos for compelling custom narratives
-- [ ] [tampopo [dot] eth](https://thisispalash.com/tampopo/) : 
-  [`src`](https://github.com/thisispalash/tampopo) :: 
-  a storytelling platform rewarding you for enrapturing your audience
-  
-  
-### cool ideas
-
-These are repositories sparked from random [read; childhood] inspirations, like Harry Potter, or Doctor Who
-
-- [ ] [riddle's diary](https://thisispalash.com/diary/) : 
-  [`src`](https://github.com/thisispalash/diary) :: 
-  Tom Riddle's Diary from Harry Potter and the Chamber of Secrets, backed by [jaquip](https://github.com/web3jaquip)
-- [ ] [babel [dot] eth](https://thisispalash.com/libbabel/) : 
-  [`src`](https://github.com/thisispalash/libbabel) :: 
-  A [library of babel](https://libraryofbabel.info) implementation for [tampopo[dot]eth](https://tampopo.xyz)
-  
-  
-### sanity
-
-These are side projects, but they are essential to maintaining sanity as we temporally float on this chaotic spinning rock !
-
-- [ ] [personas](https://thisispalash.com/personas/) : 
-  [`src`](https://github.com/thisispalash/personas) :: 
-  a social media manager with chatbots for 24x7 connectivity, but with sanity
-- [ ] [i-need-a-break](https://thisispalash.com/bashgames/) : 
-  [`src`](https://github.com/thisispalash/bashgames) :: 
-  CLI gaming arcade for mini breaks and local multiplayer (with team)
