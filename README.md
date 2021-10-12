@@ -41,8 +41,8 @@ These projects are effectively solo*ish* organisations, aimed at creating extrem
   > `AASI -- SASS` _Artificially Assisted Symbiotic Intelligence -- See A Shrink? Sure._
 - [🤔](https://web3world.art/ "website") 
   [`iF-web3`](https://github.com/iF-web3 "The World iF") :
-  > `The World iF` _there was global decentralised quantum computing_
+  > `The World iF` _there was global decentralised quantum computing.._
 - [🍁](https://web3gateway.art/ "website")
   [`web3ggwp`](https://github.com/web3ggwp "gateway getaway, wow pretty !") :
-  > `good game, well played!!` _is decentralised, accessible, modular hemp production the key to space travel?_
+  > `good game, well played!!` _is decentralised, accessible, modular hemp production the key to space travel..?_
 
