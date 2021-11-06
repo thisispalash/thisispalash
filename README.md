@@ -1,6 +1,6 @@
 ### ![](https://visitor-badge.glitch.me/badge?page_id=thisispalash.thisispalash) 👋 hello !!
 
-Welcome to my github ! I will keep updating the two to three current repositories that I am working on (and (soon) recently released projects) in this file. Other than that, most of my time is likely spent being `Zima Blue`. You can't really contact me, but if the stars align, we can meet!. I also try to maintain a comprehensive list of project activity on github, which you can find [here](https://github.com/thisispalash/index). Feel free to browse around, and do let me know if some project helped you out on Twitter !!
+Welcome to my github ! I will keep updating the two to three current repositories that I am working on (and (soon) recently released projects) in this file. Other than that, most of my time is likely spent ?!. You can't really contact me, but if the stars align, we can meet!. I also try to maintain a comprehensive list of project activity on github, which you can find [here](https://github.com/thisispalash/index). Feel free to browse around, and do let me know if some project helped you out on Twitter !!
 
 ## recent releases
 
