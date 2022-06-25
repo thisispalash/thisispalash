@@ -15,6 +15,6 @@ Welcome to my github ! I will keep updating the two to three current repositorie
 
 ## futures
 
-- `web3kyc` :: Let protcols pick up the burden of transmitting KYC data
+- `web3kyc` :: Let protocols pick up the burden of transmitting KYC data
 - `dash mon[k]ey` :: Feed a pet monkey healthy (financial) recipes to maintain financial health
 - `web3 tamagotchi` :: Maintain virtual pets on the blockchain that interact with each other on *Quadratic Lands*
