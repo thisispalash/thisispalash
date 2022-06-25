@@ -1,6 +1,6 @@
 ### ![](https://visitor-badge.glitch.me/badge?page_id=thisispalash.thisispalash) 👋 hunlo !!
 
-Welcome to my github ! I will keep updating the two to three current repositories that I am working on (and (soon) recently released projects) in this file. Other than that, most of my time is likely spent leaving myself messages across time. I try to maintain a comprehensive list of project activity on github, which you can find [here](https://github.com/thisispalash/index) (not updated yet). Feel free to browse around, and do let me know if some project helped you out on Twitter !!
+Welcome to my github ! I will keep updating the two to three current repositories that I am working on (and recently released projects) in this file. Other than that, most of my time is likely spent leaving myself messages across time. I try to maintain a comprehensive list of project activity on github, which you can find [here](https://github.com/thisispalash/index) (not updated yet). Feel free to browse around, and do let me know if some project helped you out on [Twitter](https://twitter.com/kdiodna) !!
 
 ## recent releases
 
@@ -10,7 +10,8 @@ Welcome to my github ! I will keep updating the two to three current repositorie
 ## work in progress
 
 - [Buddle Protocol](https://github.com/Buddle-finance/buddle-protocol) :: A next gen cross layer2 bridge allowing for near instant token transfers across multiple layer2 blockchains. Inspired by [this post by @vitalik](https://notes.ethereum.org/@vbuterin/cross_layer_2_bridges).
-- [Curation DAO](https://github.com/thisispalash/curationDAO) :: A concept of a curation DAO written over the course of the [Tezos hackathon on Gitcoin](https://gitcoin.co/hackathon/WAC/onboard).
+- [dTAG](https://github.com/thisispalash/dTAG) :: Create or play decentralized Text Adventure Games powered by composable NFTs.
+- [UPI Cashier](https://github.com/thisispalash/UPI-Cashier) :: An iPadOS app to manage the cashier experience at popup stalls.
 
 ## futures
 
