@@ -10,7 +10,7 @@ Welcome to my github ! I will keep updating this readme quite infrequently, with
 
 ## projects
 
-- [Chacha Choudhary]() :: Bringing GPT access to WhatsApp, and more!
+- Chacha Choudhary :: Bringing GPT access to WhatsApp, and more!
 - [Semicolon Fingers](https://github.com/thisispalash/semicolon) :: Mint heartwarming stories with a semicolon tattoo as an NFT.
 
 ## in the pipeline
