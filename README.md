@@ -15,9 +15,9 @@ Welcome to my github ! I will keep updating this readme quite infrequently, with
 
 ## in the pipeline
 
-- [utils]() :: Assorted tools accessible via [khaaliDimaag](https://utils.kdio.xyz).
-- [Thru ur eyes]() :: View lens.xyz through someone else's eyes.
-- [mYc]() :: Message your Customer (updates, otp, magic sign-in, ...).
+- utils :: Assorted tools accessible via [khaaliDimaag](https://utils.kdio.xyz).
+- Thru ur eyes :: View lens.xyz through someone else's eyes.
+- mYc :: Message your Customer (updates, otp, magic sign-in, ...).
 - [UPI Cashier](https://github.com/thisispalash/UPI-Cashier) :: An iPadOS app to manage the cashier experience at popup stalls.
 - [dTAG](https://github.com/thisispalash/dTAG) :: Create or play decentralized Text Adventure Games powered by composable NFTs.
 
