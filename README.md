@@ -12,6 +12,7 @@ Welcome to my github! I will be updating this readme rather infrequently, with b
 
 ## in the pipeline
 
+- isthis-thisis :: A way to maintain alts or different personas online.
 - dTAG :: Create or play decentralized Text Adventure Games powered by composable NFTs.
 - [UPI Cashier](https://github.com/thisispalash/UPI-Cashier) :: An iPadOS app to manage the cashier experience at popup stalls.
 
