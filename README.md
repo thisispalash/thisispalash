@@ -1,15 +1,21 @@
-## Hello, internet people!!
-> HoDL or hold?
+## 👋 Hello, internet people !!
+> Currently looking for a full time role, feel free to message me on [LinkedIn](https://linkedin.com/in/isthispalash) !
+<!-- just wanted to [say](https://www.youtube.com/watch?v=S_AFc_BXht4) [thanks](https://www.youtube.com/watch?v=NbdRIVCBqNI)! -->
 
-Just wanted to stop by and [say](https://a.co/d/aKBM0n6) [thanks](https://a.co/d/cphaN9v)!
+Welcome to my github! I will be updating this readme rather infrequently, with broader project themes. If you are looking for something specific, maybe the [index](https://github.com/thisispalash/index) (todo) might be of use. Feel free to browse around and for sure let me know if some project helped you out on [𝕏](https://twitter.com/kdiodna?utm_src=%40thisispalash%20on%20github) !!
 
-<!-- [say](https://www.youtube.com/watch?v=S_AFc_BXht4) [thanks](https://www.youtube.com/watch?v=NbdRIVCBqNI)! -->
+## current
 
-Oh man, this is so hard, but its so fun to be a gamer! My gamer tag is `k!ller` btw, and for _those_ of you who think this is unoriginal, please refer to my friend, picasso — https://imgs.search.brave.com/1ATCVWepCj9IE4vrgTmYAqk5ZhUYutRGGI5icnee4Bw/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/YnJhaW55cXVvdGUu/Y29tL3Bob3Rvc190/ci9lbi9wL3BhYmxv/cGljYXNzby8zODA0/NjkvcGFibG9waWNh/c3NvMS5qcGc
+- [AlchemyU](https://www.alchemy.com/university) :: Formally learning web3 fundamentals through Alchemy University. See related projects [here](https://github.com/thisispalash/alchemy-u).
+- Semicolon Fingers :: Pioneering a platform to bring awareness to, and address the, mental health crisis in the world.
+- [kdio](https://github.com/khaaliDimaag) :: Any time I have left is spent on [khaaliDimaag](https://kdio.xyz).
 
-Oh also, b4 i 4gt, _screenshot quick!!_
+## in the pipeline
 
-![@theprimefibber :: `gh` - ??](https://github.com/thisispalash/thisispalash/assets/8326468/ffba63ae-0b68-4731-9104-a0c25b8856ad)
+- dTAG :: Create or play decentralized Text Adventure Games powered by composable NFTs.
+- [UPI Cashier](https://github.com/thisispalash/UPI-Cashier) :: An iPadOS app to manage the cashier experience at popup stalls.
 
+## futures
 
-_`more-to-come`_
+- `dApp Ideas` :: Public access science performed in a decentralized manner.
+- `Dash Mon[k]ey` :: Feed a pet monkey healthy (financial) recipes to maintain financial health
