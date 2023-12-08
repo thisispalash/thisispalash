@@ -1,5 +1,5 @@
 ## 👋 Hello, internet people !!
-> Currently looking for a full time role, feel free to message me on [LinkedIn](https://linkedin.com/in/isthispalash) !
+> Currently looking for a full time role, feel free to message me on [LinkedIn](https://linkedin.com/in/isthispalash); or [email me](mailto:pa334@cornell.edu) directly !
 <!-- just wanted to [say](https://www.youtube.com/watch?v=S_AFc_BXht4) [thanks](https://www.youtube.com/watch?v=NbdRIVCBqNI)! -->
 
 Welcome to my github! I will be updating this readme rather infrequently, with broader project themes. If you are looking for something specific, maybe the [index](https://github.com/thisispalash/index) (todo) might be of use. Feel free to browse around and for sure let me know if some project helped you out on [𝕏](https://twitter.com/kdiodna?utm_src=%40thisispalash%20on%20github) !!
